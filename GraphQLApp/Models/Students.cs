@@ -9,6 +9,5 @@ namespace GraphQLApp.Models
         public required string StudentName { get; set; }
         public string Course { get; set; }
         public int Age { get; set; }
-        public DateTime DOB { get; set; }
     }
 }
